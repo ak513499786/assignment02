@@ -1,0 +1,8 @@
+
+    <img src="./logo.jpeg" class="main">
+    <section>
+        <h1>INTRO</h1>
+        <p>I'm <i> MD AHMED ALI KHAN </i>, I am a <i>SQL developer</i>.<br>
+            I also have basic knowledge about <i>front end</i> and <i> core JAVA </i>
+        </p>
+    </section>
